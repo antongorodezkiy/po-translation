@@ -1,0 +1,21 @@
+{
+    "name": "antongorodezkiy/po-translation",
+    "description": "CLI client to translate .po files",
+    "require": {
+        "wp-cli/php-cli-tools": "^0.11.1",
+        "gettext/gettext": "^3.6",
+        "yandex/translate-api": "^1.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eduard Kozachek",
+            "email": "antongorodezkiy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "TeamleadPower\\POTranslator\\": "src/"
+        }
+    }
+}
