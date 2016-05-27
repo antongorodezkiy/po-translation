@@ -12,17 +12,17 @@ Dependencies
 * [yandex/translate-api](https://github.com/yandex-php/translate-api) - Client for Yandex.Translate API
 * [wp-cli/php-cli-tools](https://github.com/wp-cli/php-cli-tools) - A collection of tools to help with PHP command line utilities
 
-Usage
------
+## Usage
+
 Run `php trans` via CLI interface from the package dir.
 
-== Help
+### Help 
 
 ```
 php trans -h
 ```
 
-== Options
+### Options
 
 ```
 $ php trans -h
