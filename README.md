@@ -6,6 +6,10 @@ Requirements
 ------------
 * PHP 5.4+
 
+Yandex Translator
+------------
+This package is using Yandex Translator API https://translate.yandex.com and you'll need to obtain Yandex Translator API key (free on a moment of develop this package) - [Get API Key](https://tech.yandex.ru/keys/get/?service=trnsl)
+
 Dependencies
 ------------
 * [gettext/gettext](https://github.com/oscarotero/Gettext) - PHP library to collect and manipulate gettext (.po, .mo, .php, .json, etc)
